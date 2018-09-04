@@ -1,0 +1,32 @@
+/* aspect ration for standard 8.5 by 11 */
+
+.embed-responsive-17by22 {
+    padding-bottom: 129.41%;
+}
+
+.fulloutline {
+    height: 350px;
+    width: 750px;
+}
+
+.headshot {
+    float: left;
+    border: 5px;
+    padding: 10px;
+}
+
+.jobs {
+    line-height: 30px;
+    height: 300px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+
+.description {
+    line-height: 30px;
+    height: 300px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
