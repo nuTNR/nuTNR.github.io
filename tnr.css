@@ -6,7 +6,7 @@
 
 .fulloutline {
     height: 350px;
-    width: 750px;
+    width: 850px;
 }
 
 .headshot {
@@ -26,7 +26,7 @@
 .description {
     line-height: 30px;
     height: 300px;
-    width: 200px;
+    width: 300px;
     float: left;
     padding: 10px;
 }
