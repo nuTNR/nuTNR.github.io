@@ -1,5 +1,9 @@
 /* aspect ration for standard 8.5 by 11 */
 
+
+p, h1, h2, h3, h4, h5, h6, a {
+    font-family: Times New Roman;
+}
 .embed-responsive-17by22 {
     padding-bottom: 129.41%;
 }
