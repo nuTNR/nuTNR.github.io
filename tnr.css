@@ -52,8 +52,8 @@ p, h1, h2, h3, h4, h5, h6, a {
 }
 
 .article-img {
-    width: 50px;
     padding-right: 10px;
+    width: 100px;
 }
 
 .article-title {
@@ -74,4 +74,8 @@ p, h1, h2, h3, h4, h5, h6, a {
 
 .pb10 {
     padding-bottom: 10px;
+}
+
+.article-row h3, .article-row p {
+    margin-left: 50px;
 }
